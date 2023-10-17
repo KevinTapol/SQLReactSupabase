@@ -7,7 +7,7 @@
 
 *in tailwind.config.js content: ["./src/**/*.{js,jsx,ts,tsx}",]*
 
-*in index.css*
+*in index.css*  
 @tailwind base;  
 @tailwind components;  
 @tailwind utilities;  
